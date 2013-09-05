@@ -1,0 +1,13 @@
+C:\DEV\m9c\m9c\bin\Release\m9cDev.exe
+C:\DEV\m9c\m9c\bin\Release\m9cDev.pdb
+C:\DEV\m9c\m9c\bin\Release\m9cDev.xml
+C:\DEV\m9c\m9c\obj\Release\ResolveAssemblyReference.cache
+C:\DEV\m9c\m9c\obj\Release\m9cName.FontDetail.resources
+C:\DEV\m9c\m9c\obj\Release\m9cName.Form1.resources
+C:\DEV\m9c\m9c\obj\Release\m9cName.Jimaku.resources
+C:\DEV\m9c\m9c\obj\Release\m9cName.Resources.resources
+C:\DEV\m9c\m9c\obj\Release\GenerateResource.read.1.tlog
+C:\DEV\m9c\m9c\obj\Release\GenerateResource.write.1.tlog
+C:\DEV\m9c\m9c\obj\Release\m9cDev.exe
+C:\DEV\m9c\m9c\obj\Release\m9cDev.xml
+C:\DEV\m9c\m9c\obj\Release\m9cDev.pdb
